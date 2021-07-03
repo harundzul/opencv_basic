@@ -7,3 +7,4 @@ Learning OpenCV might be challenging, but everything is possible to be solved, s
   - cropping image
   - re-shaping image
 - Drawing Shape on image :triangular_ruler:
+- Saved the edited image :sunglasses:
